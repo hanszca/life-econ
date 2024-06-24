@@ -7,10 +7,10 @@ format: html
 [https://www.kaggle.com/datasets/toriqulstu/global-socio-economic-and-environmental-indicators/data](https://www.kaggle.com/datasets/toriqulstu/global-socio-economic-and-environmental-indicators/data)
 
 The following datasets was pulled from Kaggle:
-co2_production.csv
-gross_national_income_per_capital.csv
-human_development_index.csv
-life_expectancy_by_birth.csv
+co2_production.csv, 
+gross_national_income_per_capital.csv, 
+human_development_index.csv, 
+life_expectancy_by_birth.csv 
 
 Then, the relevant data frames were joined to analyze the relationship between life expectancy and socio-economic factors.
 
